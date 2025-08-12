@@ -4,7 +4,7 @@ import {
   combineClasses,
   isDesktopDevice,
   transformImagePaths,
-  transformPath,
+  transformPath
 } from "../../utils/utils";
 import LinkTo from "../LinkTo";
 import Avatar from "./Avatar";
@@ -13,7 +13,7 @@ import SocialShare from "../SocialShare/SocialShare";
 const ArticleMoreFromAuthor = ({
   author,
   relatedArticles,
-  articleGrid = false,
+  articleGrid = false
 }: {
   author: IAuthor;
   relatedArticles: iArticle[];
@@ -58,7 +58,7 @@ const ArticleMoreFromAuthor = ({
         </div>
       )}
 
-      {relatedArticles.length && (
+      {/* {relatedArticles.length && (
         <div className={wrapperClasses}>
           <p className="border-b border-gray-300 pb-2 mb-3 font-medium w-full">
             More from Author
@@ -106,7 +106,7 @@ const ArticleMoreFromAuthor = ({
             ) : null}
           </div>
         </div>
-      )}
+      )} */}
     </>
   );
 };

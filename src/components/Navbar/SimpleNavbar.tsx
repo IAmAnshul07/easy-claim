@@ -31,7 +31,7 @@ const SimpleNavbar = ({
       )}
     >
       <div className="flex items-center">
-        <div
+        {/* <div
           className={combineClasses(
             classes.mobileBurgerToggle,
             "mr-5",
@@ -40,7 +40,7 @@ const SimpleNavbar = ({
           onClick={() => toggleSideMenu()}
         >
           <AiOutlineMenu className="dark:text-white text-black text-2xl" />
-        </div>
+        </div> */}
         <Link href="/" passHref>
           {logo ? (
             logo.type === LogoType.IMAGE ? (
@@ -50,7 +50,7 @@ const SimpleNavbar = ({
                     ? transformImagePaths(logo.logoLight)
                     : transformImagePaths(logo.logo)
                 }
-                alt="WebExpe"
+                alt="Optimus RCM"
                 className="cursor-pointer"
                 width="100px"
               />

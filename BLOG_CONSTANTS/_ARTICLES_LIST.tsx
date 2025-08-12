@@ -76,7 +76,7 @@ const ARTICLES_LIST: iArticle[] = [
     }
   },
   {
-    path: "/pages/blog/denial-management-strategies.tsx",
+    path: "/pages/blog/effective-denial-management-strategies.tsx",
     featureArticle: true,
     preview: {
       author: MICHAEL,
@@ -135,7 +135,7 @@ const ARTICLES_LIST: iArticle[] = [
     }
   },
   {
-    path: "/pages/blog/medical-billing-automation.tsx",
+    path: "/pages/blog/automation-medical-billing-revenue-cycle.tsx",
     preview: {
       author: MICHAEL,
       date: "November 15 2024",

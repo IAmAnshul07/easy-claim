@@ -86,8 +86,9 @@ export const PRIMARY_NAV: iNavSetup = {
   //     logoLight: '/images/logo-light.png'
   // },
   logo: {
-    type: LogoType.TEXT,
-    logo: "CPC Coding Claims"
+    type: LogoType.IMAGE,
+    logo: "/images/logo.png",
+    logoLight: "/images/logo.png"
   },
   // navLinks are the main navbar links that apper on top of every page
   navLinks: [

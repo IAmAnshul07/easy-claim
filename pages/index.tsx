@@ -13,15 +13,15 @@ const Home = () => {
       <section className="w-full md:pt-[100px] md:pb-[70px] pt-[130px] pb-20 mb-10 bg-gradient-to-r from-blue-600 to-blue-800 text-white">
         <div className="container text-center px-3">
           <Text title className="text-4xl md:text-6xl font-bold mb-6">
-            Medical Billing Solutions That Help You!
+            Your Hassle-Free, Cost-Effective, One-Stop Solution for Medical
+            Billing
           </Text>
 
           <Text p className="mt-6 text-xl md:text-2xl mb-8">
-            CPC Coding Claims Company provides accurate medical coding and
-            billing services for healthcare providers, ensuring compliance and
-            maximizing revenue. Our certified coders handle claims processing,
-            denials, and audits, streamlining the revenue cycle management
-            process for optimal financial performance.
+            CPC Coding Claims Company provides comprehensive medical billing and
+            revenue cycle management solutions to healthcare providers
+            nationwide. Our certified professionals ensure maximum reimbursement
+            and streamlined operations so you can focus on patient care.
           </Text>
 
           <div className="flex justify-center mt-8 flex-wrap gap-4">
@@ -48,11 +48,11 @@ const Home = () => {
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold mb-4 dark:text-white">
-              Our Core Services
+              Our Comprehensive Services
             </h2>
             <p className="text-lg text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-              Comprehensive medical coding and billing solutions designed to
-              optimize your revenue cycle
+              We provide electronic claim submission, billing and collection
+              services to healthcare providers
             </p>
           </div>
 
@@ -74,11 +74,12 @@ const Home = () => {
                 </svg>
               </div>
               <h3 className="text-xl font-semibold mb-3 dark:text-white">
-                Medical Coding
+                Medical Coding Services
               </h3>
               <p className="text-gray-600 dark:text-gray-300">
-                Expert ICD-10 and CPT coding services with certified
-                professional coders ensuring accuracy and compliance.
+                Expert ICD-10 and CPT coding with certified professional coders
+                ensuring accurate and timely medical coding to maximize
+                reimbursements and maintain compliance.
               </p>
             </div>
 
@@ -99,11 +100,12 @@ const Home = () => {
                 </svg>
               </div>
               <h3 className="text-xl font-semibold mb-3 dark:text-white">
-                Claims Processing
+                Revenue Cycle Management
               </h3>
               <p className="text-gray-600 dark:text-gray-300">
-                Efficient claims submission and processing with advanced
-                technology to maximize reimbursement rates.
+                Complete revenue cycle management solutions using your existing
+                EMR and practice management software, giving you full control
+                over your billing process.
               </p>
             </div>
 
@@ -119,16 +121,17 @@ const Home = () => {
                     strokeLinecap="round"
                     strokeLinejoin="round"
                     strokeWidth={2}
-                    d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"
+                    d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"
                   />
                 </svg>
               </div>
               <h3 className="text-xl font-semibold mb-3 dark:text-white">
-                Denial Management
+                Medical Credentialing
               </h3>
               <p className="text-gray-600 dark:text-gray-300">
-                Proactive denial management strategies to reduce claim
-                rejections and improve revenue cycle efficiency.
+                Comprehensive credentialing and enrollment services for new and
+                existing medical providers throughout the United States with
+                nationwide support.
               </p>
             </div>
           </div>
@@ -140,7 +143,7 @@ const Home = () => {
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold mb-4 dark:text-white">
-              Why Choose CPC Coding Claims?
+              Why Choose Optimus RCM?
             </h2>
           </div>
 
@@ -157,16 +160,16 @@ const Home = () => {
                     strokeLinecap="round"
                     strokeLinejoin="round"
                     strokeWidth={2}
-                    d="M13 10V3L4 14h7v7l9-11h-7z"
+                    d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1"
                   />
                 </svg>
               </div>
               <h3 className="text-xl font-semibold mb-2 dark:text-white">
-                Get Paid Faster
+                Competitive Pricing
               </h3>
               <p className="text-gray-600 dark:text-gray-300">
-                Streamlined processes ensure prompt payments and improved cash
-                flow
+                Quality services that fit your budget with customized billing
+                solutions
               </p>
             </div>
 
@@ -182,15 +185,15 @@ const Home = () => {
                     strokeLinecap="round"
                     strokeLinejoin="round"
                     strokeWidth={2}
-                    d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"
+                    d="M13 10V3L4 14h7v7l9-11h-7z"
                   />
                 </svg>
               </div>
               <h3 className="text-xl font-semibold mb-2 dark:text-white">
-                Increase Profitability
+                Uninterrupted Service
               </h3>
               <p className="text-gray-600 dark:text-gray-300">
-                Reduce AR days and denials to boost your practice's bottom line
+                Reliable support, always available with seamless operations
               </p>
             </div>
 
@@ -206,16 +209,16 @@ const Home = () => {
                     strokeLinecap="round"
                     strokeLinejoin="round"
                     strokeWidth={2}
-                    d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
+                    d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"
                   />
                 </svg>
               </div>
               <h3 className="text-xl font-semibold mb-2 dark:text-white">
-                Ensure Compliance
+                Maximize Reimbursement
               </h3>
               <p className="text-gray-600 dark:text-gray-300">
-                Stay compliant with all healthcare regulations and coding
-                standards
+                Get the most from every claim with accurate coding and efficient
+                processing
               </p>
             </div>
 
@@ -231,16 +234,101 @@ const Home = () => {
                     strokeLinecap="round"
                     strokeLinejoin="round"
                     strokeWidth={2}
-                    d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"
+                    d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
                   />
                 </svg>
               </div>
               <h3 className="text-xl font-semibold mb-2 dark:text-white">
-                Expert Team
+                Reduced Expenses
               </h3>
               <p className="text-gray-600 dark:text-gray-300">
-                Certified professional coders with years of healthcare
-                experience
+                Streamline costs for better profitability with efficient
+                processes
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Process Section */}
+      <section className="py-16 bg-gray-50 dark:bg-slate-900">
+        <div className="container mx-auto px-4">
+          <div className="text-center mb-12">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4 dark:text-white">
+              Medical Billing Process
+            </h2>
+            <p className="text-lg text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
+              Our streamlined process ensures efficient claim processing and
+              maximum reimbursement
+            </p>
+          </div>
+
+          <div className="grid md:grid-cols-3 lg:grid-cols-5 gap-6">
+            <div className="bg-white dark:bg-slate-800 p-4 rounded-lg text-center">
+              <div className="w-12 h-12 bg-green-100 dark:bg-green-900 rounded-full flex items-center justify-center mx-auto mb-3">
+                <span className="text-green-600 dark:text-green-400 font-bold">
+                  1
+                </span>
+              </div>
+              <h4 className="font-semibold mb-2 dark:text-white">
+                Patient Demographics
+              </h4>
+              <p className="text-sm text-gray-600 dark:text-gray-300">
+                Entry & validation
+              </p>
+            </div>
+
+            <div className="bg-white dark:bg-slate-800 p-4 rounded-lg text-center">
+              <div className="w-12 h-12 bg-blue-100 dark:bg-blue-900 rounded-full flex items-center justify-center mx-auto mb-3">
+                <span className="text-blue-600 dark:text-blue-400 font-bold">
+                  2
+                </span>
+              </div>
+              <h4 className="font-semibold mb-2 dark:text-white">Coding</h4>
+              <p className="text-sm text-gray-600 dark:text-gray-300">
+                ICD-10 & CPT coding
+              </p>
+            </div>
+
+            <div className="bg-white dark:bg-slate-800 p-4 rounded-lg text-center">
+              <div className="w-12 h-12 bg-purple-100 dark:bg-purple-900 rounded-full flex items-center justify-center mx-auto mb-3">
+                <span className="text-purple-600 dark:text-purple-400 font-bold">
+                  3
+                </span>
+              </div>
+              <h4 className="font-semibold mb-2 dark:text-white">
+                Claims Submission
+              </h4>
+              <p className="text-sm text-gray-600 dark:text-gray-300">
+                Electronic & paper
+              </p>
+            </div>
+
+            <div className="bg-white dark:bg-slate-800 p-4 rounded-lg text-center">
+              <div className="w-12 h-12 bg-orange-100 dark:bg-orange-900 rounded-full flex items-center justify-center mx-auto mb-3">
+                <span className="text-orange-600 dark:text-orange-400 font-bold">
+                  4
+                </span>
+              </div>
+              <h4 className="font-semibold mb-2 dark:text-white">
+                Payment Posting
+              </h4>
+              <p className="text-sm text-gray-600 dark:text-gray-300">
+                Reconciliation
+              </p>
+            </div>
+
+            <div className="bg-white dark:bg-slate-800 p-4 rounded-lg text-center">
+              <div className="w-12 h-12 bg-red-100 dark:bg-red-900 rounded-full flex items-center justify-center mx-auto mb-3">
+                <span className="text-red-600 dark:text-red-400 font-bold">
+                  5
+                </span>
+              </div>
+              <h4 className="font-semibold mb-2 dark:text-white">
+                A/R Follow-up
+              </h4>
+              <p className="text-sm text-gray-600 dark:text-gray-300">
+                Denial management
               </p>
             </div>
           </div>
@@ -248,7 +336,7 @@ const Home = () => {
       </section>
 
       {/* Latest Resources Section */}
-      <section className="py-16 bg-gray-50 dark:bg-slate-900">
+      {/* <section className="py-16 bg-white dark:bg-slate-800">
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold mb-4 dark:text-white">
@@ -260,22 +348,24 @@ const Home = () => {
             </p>
           </div>
 
-          <div className={"flex flex-wrap"}>
-            <FeaturedArticleSection />
-            <HomeNonFeatureArticles />
-          </div>
+        <div className={"flex flex-wrap"}>
+          <FeaturedArticleSection />
+          <HomeNonFeatureArticles />
         </div>
-      </section>
+      </div>
+      </section> */}
 
       {/* CTA Section */}
       <section className="py-16 bg-blue-600 text-white">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-6">
-            Ready to Optimize Your Revenue Cycle?
+            Your Partner for Maximum Reimbursement and Revenue Growth
           </h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
-            Let's discuss how our medical coding and billing services can help
-            your practice achieve better financial performance.
+            With years of experience, we have developed future-ready solutions
+            for healthcare providers nationwide. Let's discuss how our medical
+            billing services can help your practice achieve better financial
+            performance.
           </p>
           <div className="flex justify-center gap-4 flex-wrap">
             <LinkTo
