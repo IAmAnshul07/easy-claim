@@ -393,7 +393,7 @@ const AutomationMedicalBillingRevenueCycle = () => {
               </Text>
 
               <Text p>
-                At CPC Coding Claims Company, we leverage advanced automation
+                At Optimus RCM Company, we leverage advanced automation
                 technologies to provide our clients with efficient, accurate,
                 and compliant medical billing services. Our automated systems
                 ensure optimal revenue cycle performance while reducing

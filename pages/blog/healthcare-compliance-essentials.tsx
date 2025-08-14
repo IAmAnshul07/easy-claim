@@ -427,11 +427,11 @@ const HealthcareComplianceEssentials = () => {
               </Text>
 
               <Text p>
-                At CPC Coding Claims Company, we help healthcare providers
-                maintain compliance through accurate coding, proper
-                documentation, and adherence to regulatory requirements. Our
-                expertise ensures that your practice meets all compliance
-                standards while optimizing revenue cycle performance.
+                At Optimus RCM Company, we help healthcare providers maintain
+                compliance through accurate coding, proper documentation, and
+                adherence to regulatory requirements. Our expertise ensures that
+                your practice meets all compliance standards while optimizing
+                revenue cycle performance.
               </Text>
 
               <div className="bg-blue-50 dark:bg-blue-900 p-6 rounded-lg mt-8">

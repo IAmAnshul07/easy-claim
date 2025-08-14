@@ -250,11 +250,11 @@ const ICD10CodingUpdates2024 = () => {
               </Text>
 
               <Text p>
-                At CPC Coding Claims Company, our certified professional coders
-                stay current with all ICD-10 updates and ensure that our
-                clients' claims are coded accurately and compliantly. We help
-                healthcare providers navigate coding changes and maintain
-                optimal revenue cycle performance.
+                At Optimus RCM Company, our certified professional coders stay
+                current with all ICD-10 updates and ensure that our clients'
+                claims are coded accurately and compliantly. We help healthcare
+                providers navigate coding changes and maintain optimal revenue
+                cycle performance.
               </Text>
 
               <div className="bg-blue-50 dark:bg-blue-900 p-6 rounded-lg mt-8">

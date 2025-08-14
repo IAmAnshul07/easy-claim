@@ -255,12 +255,11 @@ const RevenueCycleManagementGuide = () => {
               </Text>
 
               <Text p>
-                At CPC Coding Claims Company, we specialize in helping
-                healthcare providers optimize their revenue cycle management
-                processes. Our certified professional coders and billing
-                specialists work closely with practices to ensure accurate
-                coding, efficient claims processing, and effective denial
-                management.
+                At Optimus RCM Company, we specialize in helping healthcare
+                providers optimize their revenue cycle management processes. Our
+                certified professional coders and billing specialists work
+                closely with practices to ensure accurate coding, efficient
+                claims processing, and effective denial management.
               </Text>
 
               <div className="bg-blue-50 dark:bg-blue-900 p-6 rounded-lg mt-8">

@@ -6,18 +6,18 @@ const AboutUs = () => {
   return (
     <PageLayout
       PAGE_SEO={{
-        title: "About CPC Coding Claims Company - Medical Billing Experts",
+        title: "About Optimus RCM Company - Medical Billing Experts",
         description:
-          "Learn about CPC Coding Claims Company, a results-oriented medical billing service company with globally renowned credentials and proven accolades.",
+          "Learn about Optimus RCM Company, a results-oriented medical billing service company with globally renowned credentials and proven accolades.",
         keywords:
-          "about us, medical billing company, healthcare billing experts, CPC coding claims"
+          "about us, medical billing company, healthcare billing experts, Optimus RCM"
       }}
     >
       {/* Hero Section */}
       <section className="w-full md:pt-[100px] md:pb-[70px] pt-[130px] pb-20 mb-10 bg-gradient-to-r from-blue-600 to-blue-800 text-white">
         <div className="container text-center px-3">
           <Text title className="text-4xl md:text-6xl font-bold mb-6">
-            About CPC Coding Claims Company
+            About Optimus RCM Company
           </Text>
           <Text p className="mt-6 text-xl md:text-2xl mb-8">
             A results-oriented medical billing outsourced service company with
@@ -35,7 +35,7 @@ const AboutUs = () => {
                 Our Story
               </h2>
               <Text p className="text-lg text-gray-600 dark:text-gray-300 mb-6">
-                CPC Coding Claims Company was founded with a clear vision: to
+                Optimus RCM Company was founded with a clear vision: to
                 revolutionize the medical billing industry by providing
                 healthcare providers with comprehensive, cost-effective
                 solutions that maximize their revenue while allowing them to
@@ -326,7 +326,7 @@ const AboutUs = () => {
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold mb-4 dark:text-white">
-              Why Choose CPC Coding Claims?
+              Why Choose Optimus RCM?
             </h2>
             <p className="text-lg text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
               We adapt to client needs, revolutionizing the medical billing

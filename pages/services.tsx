@@ -5,7 +5,7 @@ const Services = () => {
   return (
     <PageLayout
       PAGE_SEO={{
-        title: "Medical Coding & Billing Services - CPC Coding Claims Company",
+        title: "Medical Coding & Billing Services - Optimus RCM Company",
         description:
           "Comprehensive medical coding and billing services including ICD-10 coding, CPT coding, claims processing, denial management, and revenue cycle optimization.",
         keywords:

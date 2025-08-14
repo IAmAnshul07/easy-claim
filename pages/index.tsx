@@ -18,7 +18,7 @@ const Home = () => {
           </Text>
 
           <Text p className="mt-6 text-xl md:text-2xl mb-8">
-            CPC Coding Claims Company provides comprehensive medical billing and
+            Optimus RCM Company provides comprehensive medical billing and
             revenue cycle management solutions to healthcare providers
             nationwide. Our certified professionals ensure maximum reimbursement
             and streamlined operations so you can focus on patient care.

@@ -69,7 +69,7 @@ export const LISA: IAuthor = {
 };
 
 // This can your company name / your name etc for SEO purposes
-export const WEBSITE_NAME: string = "CPC Coding Claims Company";
+export const WEBSITE_NAME: string = "Optimus RCM Company";
 export const WEBSITE_URL: string = "https://cpccodingclaims.com/";
 
 /**
@@ -155,9 +155,9 @@ export const PRIMARY_NAV: iNavSetup = {
 };
 
 export const DEFAULT_SEO: iSEO = {
-  title: "CPC Coding Claims Company - Expert Medical Coding & Billing Services",
+  title: "Optimus RCM Company - Expert Medical Coding & Billing Services",
   description:
-    "CPC Coding Claims Company provides accurate medical coding and billing services for healthcare providers, ensuring compliance and maximizing revenue. Our certified coders handle claims processing, denials, and audits.",
+    "Optimus RCM Company provides accurate medical coding and billing services for healthcare providers, ensuring compliance and maximizing revenue. Our certified coders handle claims processing, denials, and audits.",
   keywords:
     "medical coding, medical billing, healthcare revenue cycle, CPC certified, claims processing, denial management, healthcare compliance, medical billing services, revenue cycle management",
   url: WEBSITE_URL,

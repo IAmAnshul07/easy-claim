@@ -326,11 +326,11 @@ const EffectiveDenialManagementStrategies = () => {
               </Text>
 
               <Text p>
-                At CPC Coding Claims Company, we specialize in helping
-                healthcare providers develop and implement effective denial
-                management strategies. Our experienced team works closely with
-                practices to identify denial patterns, develop prevention
-                strategies, and maximize appeal success rates.
+                At Optimus RCM Company, we specialize in helping healthcare
+                providers develop and implement effective denial management
+                strategies. Our experienced team works closely with practices to
+                identify denial patterns, develop prevention strategies, and
+                maximize appeal success rates.
               </Text>
 
               <div className="bg-blue-50 dark:bg-blue-900 p-6 rounded-lg mt-8">

@@ -335,10 +335,10 @@ const CPTCodingBestPractices = () => {
               </Text>
 
               <Text p>
-                At CPC Coding Claims Company, our certified professional coders
-                are experts in CPT coding best practices and can help your
-                practice optimize its coding processes for maximum reimbursement
-                and compliance.
+                At Optimus RCM Company, our certified professional coders are
+                experts in CPT coding best practices and can help your practice
+                optimize its coding processes for maximum reimbursement and
+                compliance.
               </Text>
 
               <div className="bg-blue-50 dark:bg-blue-900 p-6 rounded-lg mt-8">
