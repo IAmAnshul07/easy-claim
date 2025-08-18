@@ -8,7 +8,10 @@ import {
 
 const ContactHeader = () => {
   return (
-    <div className="bg-blue-600 text-white py-2 px-4 relative z-40">
+    <div
+      className="text-white py-2 px-4 relative z-40"
+      style={{ backgroundColor: "#20c4d9" }}
+    >
       <div className="container mx-auto">
         {/* Desktop Layout */}
         <div className="hidden lg:flex items-center justify-between text-sm">
@@ -18,7 +21,7 @@ const ContactHeader = () => {
               href="https://www.facebook.com/cpccodingclaims"
               target="_blank"
               rel="noopener noreferrer"
-              className="hover:text-blue-200 transition-colors"
+              className="text-white hover:text-cyan-100 transition-colors"
             >
               <AiFillFacebook className="text-lg" />
             </a>
@@ -26,7 +29,7 @@ const ContactHeader = () => {
               href="https://www.linkedin.com/company/cpc-coding-claims"
               target="_blank"
               rel="noopener noreferrer"
-              className="hover:text-blue-200 transition-colors"
+              className="text-white hover:text-cyan-100 transition-colors"
             >
               <AiFillLinkedin className="text-lg" />
             </a>
@@ -34,7 +37,7 @@ const ContactHeader = () => {
               href="https://twitter.com/CPCCodingClaims"
               target="_blank"
               rel="noopener noreferrer"
-              className="hover:text-blue-200 transition-colors"
+              className="text-white hover:text-cyan-100 transition-colors"
             >
               <AiOutlineTwitter className="text-lg" />
             </a>
@@ -65,7 +68,7 @@ const ContactHeader = () => {
               <FiMail className="text-sm" />
               <a
                 href="mailto:info@optimusrcm.com"
-                className="hover:text-blue-200 transition-colors"
+                className="text-white hover:text-cyan-100 transition-colors"
               >
                 <b>info@optimusrcm.com</b>
               </a>
@@ -81,7 +84,7 @@ const ContactHeader = () => {
               href="https://www.facebook.com/cpccodingclaims"
               target="_blank"
               rel="noopener noreferrer"
-              className="hover:text-blue-200 transition-colors"
+              className="text-white hover:text-cyan-100 transition-colors"
             >
               <AiFillFacebook className="text-base" />
             </a>
@@ -89,7 +92,7 @@ const ContactHeader = () => {
               href="https://www.linkedin.com/company/cpc-coding-claims"
               target="_blank"
               rel="noopener noreferrer"
-              className="hover:text-blue-200 transition-colors"
+              className="text-white hover:text-cyan-100 transition-colors"
             >
               <AiFillLinkedin className="text-base" />
             </a>
@@ -97,7 +100,7 @@ const ContactHeader = () => {
               href="https://twitter.com/CPCCodingClaims"
               target="_blank"
               rel="noopener noreferrer"
-              className="hover:text-blue-200 transition-colors"
+              className="text-white hover:text-cyan-100 transition-colors"
             >
               <AiOutlineTwitter className="text-base" />
             </a>
@@ -119,7 +122,7 @@ const ContactHeader = () => {
               <FiMail className="text-xs" />
               <a
                 href="mailto:info@optimusrcm.com"
-                className="hover:text-blue-200 transition-colors"
+                className="text-white hover:text-cyan-100 transition-colors"
               >
                 info@optimusrcm.com
               </a>
