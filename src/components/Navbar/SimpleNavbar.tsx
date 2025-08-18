@@ -92,21 +92,6 @@ const SimpleNavbar = ({
               />
             )
           )}
-          {socials && (
-            <div className="ml-5 pt-1">
-              {socials.map((each: iNavSocials, i: any) => (
-                <a
-                  href={each.link}
-                  key={i}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-[18px] inline-block mr-4"
-                >
-                  {each.icon}
-                </a>
-              ))}
-            </div>
-          )}
         </div>
 
         <div

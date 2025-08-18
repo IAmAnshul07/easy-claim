@@ -1,13 +1,14 @@
 import { NavbarType, THEMES } from "../../shared/enums";
 import SimpleNavbar from "./SimpleNavbar";
 import CenteredNavbar from "./Centered";
+import ContactHeader from "./ContactHeader";
 import { useEffect, useState } from "react";
 import {
   addBodyNoScroll,
   combineClasses,
   getDeviceType,
   removeBodyNoScroll,
-  webShare,
+  webShare
 } from "../../utils/utils";
 import NavSidebar from "./NavSideBar";
 import Search from "../Search";
@@ -75,6 +76,7 @@ const Navbar = () => {
 
   return (
     <>
+      <ContactHeader />
       <nav
         className={combineClasses(
           classes.navbar,

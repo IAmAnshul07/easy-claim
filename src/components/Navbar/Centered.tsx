@@ -76,21 +76,7 @@ const CenteredNavbar = ({
         </LinkTo>
 
         <div className="flex justify-end" style={{ width: "120px" }}>
-          {socials &&
-            socials.map((each: iNavSocials, i: any) => (
-              <a
-                href={each.link}
-                target="_blank"
-                rel="noopener noreferrer"
-                key={each.link}
-                className={combineClasses(
-                  "dark:text-white text-black text-[24px] d-inline-block",
-                  i === socials.length - 1 ? "ml-3" : "mx-3"
-                )}
-              >
-                {each.icon}
-              </a>
-            ))}
+          {/* Social media links moved to contact header */}
         </div>
       </div>
       <div className="flex justify-center items-center font-regular text-[14px] d-sm-none mt-3">
