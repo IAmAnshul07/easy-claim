@@ -63,7 +63,7 @@ const CenteredNavbar = ({
                     ? transformImagePaths(logo.logoLight)
                     : transformImagePaths(logo.logo)
                 }
-                alt="Optimus RCM"
+                alt="PreciseRCM"
                 className="cursor-pointer h-20 w-auto"
                 style={{ maxHeight: "100px", minWidth: "120px" }}
               />

@@ -42,7 +42,15 @@ const Navbar = () => {
   const [scrolled, setScrolled] = useState(false);
   let lastScrollTop = 0;
   useEffect(() => {
-    setIsMobile(getDeviceType() === "tablet" || getDeviceType() === "mobile");
+    const checkScreenSize = () => {
+      setIsMobile(window.innerWidth < 768);
+    };
+
+    // Check initial screen size
+    checkScreenSize();
+
+    // Add resize listener
+    window.addEventListener("resize", checkScreenSize);
 
     window.onscroll = () => {
       const st = window.pageYOffset || document.documentElement.scrollTop;
@@ -56,6 +64,7 @@ const Navbar = () => {
     };
 
     return () => {
+      window.removeEventListener("resize", checkScreenSize);
       setScrolled(false);
     };
   }, []);

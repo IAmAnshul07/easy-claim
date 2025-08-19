@@ -67,10 +67,10 @@ const ContactHeader = () => {
             <div className="flex items-center space-x-2">
               <FiMail className="text-sm" />
               <a
-                href="mailto:info@optimusrcm.com"
+                href="mailto:info@precisercm.com"
                 className="text-white hover:text-cyan-100 transition-colors"
               >
-                <b>info@optimusrcm.com</b>
+                <b>info@precisercm.com</b>
               </a>
             </div>
           </div>
@@ -121,10 +121,10 @@ const ContactHeader = () => {
             <div className="flex items-center space-x-1">
               <FiMail className="text-xs" />
               <a
-                href="mailto:info@optimusrcm.com"
+                href="mailto:info@precisercm.com"
                 className="text-white hover:text-cyan-100 transition-colors"
               >
-                info@optimusrcm.com
+                info@precisercm.com
               </a>
             </div>
           </div>

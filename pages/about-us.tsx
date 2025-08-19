@@ -6,11 +6,11 @@ const AboutUs = () => {
   return (
     <PageLayout
       PAGE_SEO={{
-        title: "About Optimus RCM Company - Medical Billing Experts",
+        title: "About PreciseRCM Company - Medical Billing Experts",
         description:
-          "Learn about Optimus RCM Company, a results-oriented medical billing service company with globally renowned credentials and proven accolades.",
+          "Learn about PreciseRCM Company, a results-oriented medical billing service company with globally renowned credentials and proven accolades.",
         keywords:
-          "about us, medical billing company, healthcare billing experts, Optimus RCM"
+          "about us, medical billing company, healthcare billing experts, PreciseRCM"
       }}
     >
       {/* Hero Section */}
@@ -20,7 +20,7 @@ const AboutUs = () => {
       >
         <div className="container text-center px-3">
           <Text title className="text-4xl md:text-6xl font-bold mb-6">
-            About Optimus RCM Company
+            About PreciseRCM Company
           </Text>
           <Text p className="mt-6 text-xl md:text-2xl mb-8">
             A results-oriented medical billing outsourced service company with
@@ -38,7 +38,7 @@ const AboutUs = () => {
                 Our Story
               </h2>
               <Text p className="text-lg text-gray-600 dark:text-gray-300 mb-6">
-                Optimus RCM Company was founded with a clear vision: to
+                PreciseRCM Company was founded with a clear vision: to
                 revolutionize the medical billing industry by providing
                 healthcare providers with comprehensive, cost-effective
                 solutions that maximize their revenue while allowing them to
@@ -329,7 +329,7 @@ const AboutUs = () => {
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold mb-4 dark:text-white">
-              Why Choose Optimus RCM?
+              Why Choose PreciseRCM?
             </h2>
             <p className="text-lg text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
               We adapt to client needs, revolutionizing the medical billing

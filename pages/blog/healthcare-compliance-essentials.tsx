@@ -427,7 +427,7 @@ const HealthcareComplianceEssentials = () => {
               </Text>
 
               <Text p>
-                At Optimus RCM Company, we help healthcare providers maintain
+                At PreciseRCM Company, we help healthcare providers maintain
                 compliance through accurate coding, proper documentation, and
                 adherence to regulatory requirements. Our expertise ensures that
                 your practice meets all compliance standards while optimizing

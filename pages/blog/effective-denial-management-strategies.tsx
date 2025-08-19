@@ -326,7 +326,7 @@ const EffectiveDenialManagementStrategies = () => {
               </Text>
 
               <Text p>
-                At Optimus RCM Company, we specialize in helping healthcare
+                At PreciseRCM Company, we specialize in helping healthcare
                 providers develop and implement effective denial management
                 strategies. Our experienced team works closely with practices to
                 identify denial patterns, develop prevention strategies, and

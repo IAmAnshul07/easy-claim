@@ -250,7 +250,7 @@ const ICD10CodingUpdates2024 = () => {
               </Text>
 
               <Text p>
-                At Optimus RCM Company, our certified professional coders stay
+                At PreciseRCM Company, our certified professional coders stay
                 current with all ICD-10 updates and ensure that our clients'
                 claims are coded accurately and compliantly. We help healthcare
                 providers navigate coding changes and maintain optimal revenue

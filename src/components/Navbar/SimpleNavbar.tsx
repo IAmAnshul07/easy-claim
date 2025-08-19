@@ -31,16 +31,18 @@ const SimpleNavbar = ({
       )}
     >
       <div className="flex items-center">
-        {/* <div
-          className={combineClasses(
-            classes.mobileBurgerToggle,
-            "mr-5",
-            openSidebar ? classes.mobileBurgerToggle__close : " "
-          )}
-          onClick={() => toggleSideMenu()}
-        >
-          <AiOutlineMenu className="dark:text-white text-black text-2xl" />
-        </div> */}
+        {typeof window !== "undefined" && window.innerWidth < 768 && (
+          <div
+            className={combineClasses(
+              classes.mobileBurgerToggle,
+              "mr-5",
+              openSidebar ? classes.mobileBurgerToggle__close : " "
+            )}
+            onClick={() => toggleSideMenu()}
+          >
+            <AiOutlineMenu className="dark:text-white text-black text-2xl" />
+          </div>
+        )}
         <Link href="/" passHref>
           {logo ? (
             logo.type === LogoType.IMAGE ? (
@@ -50,7 +52,7 @@ const SimpleNavbar = ({
                     ? transformImagePaths(logo.logoLight)
                     : transformImagePaths(logo.logo)
                 }
-                alt="Optimus RCM"
+                alt="PreciseRCM"
                 className="cursor-pointer h-20 w-auto"
                 style={{ maxHeight: "100px", minWidth: "120px" }}
               />

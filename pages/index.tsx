@@ -20,7 +20,7 @@ const Home = () => {
           </Text>
 
           <Text p className="mt-6 text-xl md:text-2xl mb-8">
-            Optimus RCM Company provides comprehensive medical billing and
+            PreciseRCM Company provides comprehensive medical billing and
             revenue cycle management solutions to healthcare providers
             nationwide. Our certified professionals ensure maximum reimbursement
             and streamlined operations so you can focus on patient care.
@@ -144,7 +144,7 @@ const Home = () => {
           <div className="container mx-auto px-4">
             <div className="text-center mb-12 scroll-fade-in">
               <h2 className="text-3xl md:text-4xl font-bold mb-4 dark:text-white">
-                Why Choose Optimus RCM?
+                Why Choose PreciseRCM?
               </h2>
             </div>
 

@@ -393,7 +393,7 @@ const AutomationMedicalBillingRevenueCycle = () => {
               </Text>
 
               <Text p>
-                At Optimus RCM Company, we leverage advanced automation
+                At PreciseRCM Company, we leverage advanced automation
                 technologies to provide our clients with efficient, accurate,
                 and compliant medical billing services. Our automated systems
                 ensure optimal revenue cycle performance while reducing

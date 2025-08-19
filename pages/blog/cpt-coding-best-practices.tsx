@@ -335,7 +335,7 @@ const CPTCodingBestPractices = () => {
               </Text>
 
               <Text p>
-                At Optimus RCM Company, our certified professional coders are
+                At PreciseRCM Company, our certified professional coders are
                 experts in CPT coding best practices and can help your practice
                 optimize its coding processes for maximum reimbursement and
                 compliance.
