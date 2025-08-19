@@ -51,8 +51,8 @@ const SimpleNavbar = ({
                     : transformImagePaths(logo.logo)
                 }
                 alt="Optimus RCM"
-                className="cursor-pointer"
-                width="100px"
+                className="cursor-pointer h-20 w-auto"
+                style={{ maxHeight: "100px", minWidth: "120px" }}
               />
             ) : (
               <a className="text-[22px] font-semibold">{logo.logo}</a>

@@ -63,9 +63,9 @@ const CenteredNavbar = ({
                     ? transformImagePaths(logo.logoLight)
                     : transformImagePaths(logo.logo)
                 }
-                alt="WebExpe"
-                className="cursor-pointer"
-                width="100px"
+                alt="Optimus RCM"
+                className="cursor-pointer h-20 w-auto"
+                style={{ maxHeight: "100px", minWidth: "120px" }}
               />
             ) : (
               <span className="text-[22px] font-semibold">{logo.logo}</span>

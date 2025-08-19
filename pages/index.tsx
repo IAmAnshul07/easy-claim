@@ -429,13 +429,13 @@ const Home = () => {
               >
                 <span className="block">Contact Us Today</span>
               </LinkTo>
-              <LinkTo
+              {/* <LinkTo
                 href="/services"
                 passHref
                 className="flex items-center justify-center rounded-md border-2 border-white text-white px-8 py-3 text-lg font-semibold hover:bg-white hover:text-cyan-500 transition-all"
               >
                 <span className="block">Learn More</span>
-              </LinkTo>
+              </LinkTo> */}
             </div>
           </div>
         </section>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="200" height="60" viewBox="0 0 200 60">
+  <!-- Main Logo Container -->
+  <g transform="translate(10,10)">
+    <!-- Modern Medical Icon -->
+    <circle cx="15" cy="15" r="10" fill="none" stroke="#20c4d9" stroke-width="2"/>
+    <path d="M10 15 L20 15 M15 10 L15 20" stroke="#20c4d9" stroke-width="2"/>
+    
+    <!-- Modern Font Company Name -->
+    <text x="35" y="25" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="300" fill="#20c4d9">PreciseRCM</text>
+  </g>
+</svg> 

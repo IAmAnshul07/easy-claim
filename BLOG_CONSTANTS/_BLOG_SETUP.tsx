@@ -87,8 +87,8 @@ export const PRIMARY_NAV: iNavSetup = {
   // },
   logo: {
     type: LogoType.IMAGE,
-    logo: "/images/logo.png",
-    logoLight: "/images/logo.png"
+    logo: "/images/preciseRCM-combined.svg",
+    logoLight: "/images/preciseRCM-combined.svg"
   },
   // navLinks are the main navbar links that apper on top of every page
   navLinks: [
@@ -101,9 +101,8 @@ export const PRIMARY_NAV: iNavSetup = {
       path: "/services"
     },
     {
-      label: "Resources",
-      type: "dropdown",
-      path: ""
+      label: "Articles",
+      path: "/blog"
     },
     {
       label: "About Us",
@@ -125,9 +124,8 @@ export const PRIMARY_NAV: iNavSetup = {
       path: "/services"
     },
     {
-      label: "Resources",
-      type: "dropdown",
-      path: ""
+      label: "Articles",
+      path: "/blog"
     },
     {
       label: "About Us",
