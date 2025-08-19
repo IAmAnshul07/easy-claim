@@ -9,7 +9,7 @@ import {
 const ContactHeader = () => {
   return (
     <div
-      className="text-white py-2 px-4 relative z-40"
+      className="text-white py-2 px-4 relative z-50"
       style={{ backgroundColor: "#20c4d9" }}
     >
       <div className="container mx-auto">

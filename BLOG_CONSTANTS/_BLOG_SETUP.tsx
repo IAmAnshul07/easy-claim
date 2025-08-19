@@ -124,10 +124,6 @@ export const PRIMARY_NAV: iNavSetup = {
       path: "/services"
     },
     {
-      label: "Articles",
-      path: "/blog"
-    },
-    {
       label: "About Us",
       path: "/about-us"
     },
